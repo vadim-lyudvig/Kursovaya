@@ -1,0 +1,51 @@
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Администратор\Desktop\Ирниту\Технологии Программирования\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Администратор\Desktop\56\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Администратор\Desktop\56\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Администратор\Desktop\56\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Администратор\Desktop\56\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\56\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\Desktop\56\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\Администратор\Desktop\56\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Администратор\Desktop\56\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\56\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\56\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Администратор\Desktop\56\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+F:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+F:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+F:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+F:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+F:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+F:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+F:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+F:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+F:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+F:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+G:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+G:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+G:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+G:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+G:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+G:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+G:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+G:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+G:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+G:\ИРНИТУ\2 курс\ТП\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
